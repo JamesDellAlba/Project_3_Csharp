@@ -11,8 +11,6 @@ namespace Data_Structures_Project_3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int variable = 32;
-            Console.WriteLine(variable);
             Console.ReadKey();
 
         }
